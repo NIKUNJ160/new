@@ -5,7 +5,7 @@ import time
 
 # Configuration
 # Change this to your local repository path where log.txt is located
-REPO_PATH = r"https://github.com/NIKUNJ160/new" 
+REPO_PATH = r"c:\NIKUNJ\bot" 
 LOG_FILE = "log.txt"
 COMMIT_MESSAGE = "Automated daily log entry"
 
