@@ -11,7 +11,7 @@ This is a Python script that automatically makes commits and pushes them to a re
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone <your-github-repo>
    cd <your-repo-directory>
    ```
 
